@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/home"
+        android:id="@+id/tab_main"
+        android:title="@string/tab_main"/>
+    <item
+        android:icon="@drawable/wrench"
+        android:id="@+id/tab_configurations"
+        android:title="@string/tab_configurations"/>
+    <item
+        android:icon="@drawable/info"
+        android:id="@+id/tab_changelog"
+        android:title="@string/tab_changelog"/>
+</menu>
